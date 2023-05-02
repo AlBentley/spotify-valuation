@@ -1,0 +1,17 @@
+{
+  "name": "spotify-example",
+  "version": "3.0.0",
+  "description": "Live demo",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/lab": "4.0.0-alpha.60",
+    "@visx/visx": "1.16.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-vis": "1.11.7"
+  }
+}
